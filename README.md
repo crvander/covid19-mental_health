@@ -1,9 +1,7 @@
-# Covid-19 Mental Health Studies
+# Covid-19 Mental Health Studies [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Psychological response studies and mental status observation of Slovenes at the beginning of the Covid-19 pandemic during the first lockdown in Slovenia.
 
-
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
