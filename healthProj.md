@@ -1,14 +1,3 @@
----
-title: "healthProj"
-author: "Carlos van der Ley"
-date: "2023-02-09"
-output: 
-  html_document: 
-    keep_md: yes
----
-
-
-
 
 ```r
 library(tidyverse)
