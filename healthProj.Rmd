@@ -1,0 +1,23 @@
+---
+title: "healthProj"
+author: "Carlos van der Ley"
+date: "2023-02-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(ggplot)
+library(haven)
+```
+
+## Covid19 mental health studies
+
+```{r cars}
+# df <- read_sav("data/Slovenia_COVID-19&Mental_Health.sav")
+# head(df, 10)
+```
