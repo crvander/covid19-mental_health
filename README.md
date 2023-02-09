@@ -11,7 +11,3 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
-[![ODbL v1.0][od- by-image]][od-by]
-[od-by]: http://creativecommons.org/licenses/by/4.0/
-[od-by-image]: https://a.okfn.org/img/oki/small-rgb-433x344.png
