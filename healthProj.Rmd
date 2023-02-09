@@ -2,23 +2,28 @@
 title: "healthProj"
 author: "Carlos van der Ley"
 date: "2023-02-09"
-# output: html_document
-output: md_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r}
+```{r message=FALSE}
 library(tidyverse)
 library(ggplot2)
 library(haven)
+library(DT)
 ```
 
 ## Covid19 mental health studies
 
 ```{r}
 df <- read_sav("data/Slovenia_COVID-19&Mental_Health.sav")
-head(df, 10)
+
+datatable(head(df |>
+            select(Sex:Income), 10)
+)
 ```
