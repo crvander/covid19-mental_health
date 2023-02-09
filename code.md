@@ -1,10 +1,3 @@
----
-title: "healthProj"
-author: "Carlos van der Ley"
-date: "2023-02-09"
-output: html_document
----
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
