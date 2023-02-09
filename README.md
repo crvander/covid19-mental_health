@@ -19,5 +19,5 @@ This work is licensed under a
 [![ODbL v1.0][od-by-image]][od-by]
 
 [od-by]: http://creativecommons.org/licenses/by/4.0/
-[od-by-image]: https://a.okfn.org/img/oki/small-rgb-89x68.png
+[od-by-image]: (https://a.okfn.org/img/oki/small-rgb-433x344.png=88x68)
 [od-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
