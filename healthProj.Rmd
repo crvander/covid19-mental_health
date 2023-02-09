@@ -2,7 +2,8 @@
 title: "healthProj"
 author: "Carlos van der Ley"
 date: "2023-02-09"
-output: html_document
+# output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
