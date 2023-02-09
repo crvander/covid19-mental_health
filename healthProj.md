@@ -1,14 +1,3 @@
----
-title: "R Notebook"
-author: "Carlos van der Ley"
-date: "02-08-2023"
-output:
-  html_document: 
-    keep_md: yes
-    
-
----
-
 
 ```r
 library(tidyverse)
